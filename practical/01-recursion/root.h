@@ -1,0 +1,2 @@
+double root (double, double);
+
